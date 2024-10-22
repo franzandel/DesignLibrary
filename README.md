@@ -11,4 +11,4 @@ Repositories :
 Branches :
 1. [v1](https://github.com/franzandel/DesignLibrary/tree/v1) - send function with name parameter
 2. [v2](https://github.com/franzandel/DesignLibrary/tree/v2) - send function with name and address parameter
-3. [main](https://github.com/franzandel/DesignLibrary/tree/main) - Final solution
+3. [main](https://github.com/franzandel/DesignLibrary/tree/main) - Final solution (handled Binary Incompatibility)

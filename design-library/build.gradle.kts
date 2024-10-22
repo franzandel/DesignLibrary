@@ -44,7 +44,7 @@ dependencies {
 
 apply("${rootProject.projectDir}/scripts/publish_artifacts.gradle")
 group = "com.franzandel.design.library"
-version = "2"
+version = "1"
 val artifactId = "design-library"
 val publishAarTask = findProperty("publishAar") as groovy.lang.Closure<*>
 publishAarTask(group, version, artifactId)
